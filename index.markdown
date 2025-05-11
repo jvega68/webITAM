@@ -12,3 +12,4 @@ Contenido relevante. Fijarse en donde están ubicados estos cambios. Me gustarí
 - Sitios interesantes que son útiles para la docencia.
 - Otro tipo de información académicamente relevante.
 
+Aquí se concluye.
