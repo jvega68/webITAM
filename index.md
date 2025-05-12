@@ -1,9 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+<img alt="yo con cabello versión muppet" src="images/me.webp" width ="200"/>
 
 Contenido relevante. Fijarse en donde están ubicados estos cambios. Me gustaría agregar a esta página:
 

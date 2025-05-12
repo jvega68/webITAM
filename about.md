@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Cursos
+permalink: /cursos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Estos son los cursos que he impartido en el ITAM
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Licenciatura:
+    - [Simulación](https://jvega68.github.io/Simulacion)
+    - Estadística Aplicada II
+    - [Estadística Aplicada III](https://jvega68.github.io/EA3)
+    - Estadística no paramétrica
+    - Estadística II
+    - Estadística I
+    - Procesos Estocásticos I
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Maestría:
+    - Regresión Avanzada (Ciencia de Datos)
+    - Propedéutico Estadística (Ciencia de Riesgo)
+    - Simulación para Riesgos
 
-
-[jekyll-organization]: https://github.com/jekyll
