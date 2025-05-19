@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cursos
-permalink: /cursos/
+permalink: /webITAM/cursos/
 ---
 
 Estos son los cursos que he impartido en el ITAM
