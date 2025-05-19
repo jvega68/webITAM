@@ -4,7 +4,7 @@ title: Acerca de mi
 permalink: /aboutme/
 ---
 <div id ="home">
-<center><img src="/images/me.webp" width ="200"/></center>
+<center><img src="../images/me.webp" width ="200"/></center>
 
 <p>Soy matemático de formación, estudié en la Facultad de Ciencias de la UNAM, y la maestría y doctorado en Estadística por la Universidad de Minnesota</p>
 
