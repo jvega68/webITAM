@@ -1,0 +1,12 @@
+---
+title: Creando mi sitio Web
+author: Jorge de la Vega
+date: '2018-08-13'
+slug: creando-mi-sitio-web
+categories: []
+tags: [ejemplo, borrar]
+description: ''
+topics: []
+---
+
+Un simple ejemplo de cómo agregar un post
