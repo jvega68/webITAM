@@ -4,13 +4,12 @@
 layout: home
 ---
 
-<img alt="yo con cabello versión muppet" src="images/me.webp" width ="200"/>
+<center><b> Profesor de Medio Tiempo en el Departamento de Estadística </b></center>
 
 Contenido relevante. Fijarse en donde están ubicados estos cambios. Me gustaría agregar a esta página:
 
-- Ligas a los cursos que se ha impartido
 - Proyectos en los que estoy participando.
+- Presentaciones
 - Sitios interesantes que son útiles para la docencia.
 - Otro tipo de información académicamente relevante.
 
-Aquí se concluye.
